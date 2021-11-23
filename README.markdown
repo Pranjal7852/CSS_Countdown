@@ -1,5 +1,3 @@
-# DailyUI #014 | Countdown Timer
+# CSS-Countdown
+A simple countdown made with css and javascript.
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/juliepark/pen/pKybKa](https://codepen.io/juliepark/pen/pKybKa).
-
-Fourth of July Countdown Timer 
